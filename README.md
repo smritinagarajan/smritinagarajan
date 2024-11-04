@@ -1,0 +1,3 @@
+Hello! I'm Smriti. I'm a first-year PhD student at the University of Arizona, and am planning to study and conduct research at the intersection of Cancer Biology and Immunobiology.
+
+I'm somewhat comfortable using R and Linux to analyze data and make graphs. I aim to refine my code and improve my skills over the next few years. I would like to find one paper with publicly accessible computational data each month, and recreate its figures on my own. Developing these skills will help me integrate computational biology into my research toolkit, and possibly help me gain a role in cancer biotechnology in 2029.
